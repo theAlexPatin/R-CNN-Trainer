@@ -1,0 +1,22 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>Streaks31.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2000</width>
+    <height>500</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Streaks</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1033</xmin>
+      <ymin>342</ymin>
+      <xmax>1059</xmax>
+      <ymax>450</ymax>
+    </bndbox>
+  </object>
+</annotation>

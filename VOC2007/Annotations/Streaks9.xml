@@ -1,0 +1,10 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>Streaks9.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2000</width>
+    <height>500</height>
+    <depth>1</depth>
+  </size>
+</annotation>
