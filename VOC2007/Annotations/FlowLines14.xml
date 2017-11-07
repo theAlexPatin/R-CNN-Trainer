@@ -1,0 +1,34 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>FlowLines14.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2000</width>
+    <height>500</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Flow_Lines</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>186</xmin>
+      <ymin>14</ymin>
+      <xmax>447</xmax>
+      <ymax>482</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Flow_Lines</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1092</xmin>
+      <ymin>26</ymin>
+      <xmax>1366</xmax>
+      <ymax>483</ymax>
+    </bndbox>
+  </object>
+</annotation>

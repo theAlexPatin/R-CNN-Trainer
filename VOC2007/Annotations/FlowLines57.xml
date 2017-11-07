@@ -1,0 +1,22 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>FlowLines57.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2000</width>
+    <height>500</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Flow_Lines</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1116</xmin>
+      <ymin>11</ymin>
+      <xmax>1637</xmax>
+      <ymax>497</ymax>
+    </bndbox>
+  </object>
+</annotation>
