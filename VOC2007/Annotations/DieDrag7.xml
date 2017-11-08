@@ -1,0 +1,22 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>DieDrag7.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>2000</width>
+    <height>500</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>DieDrag</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>61</xmin>
+      <ymin>2</ymin>
+      <xmax>100</xmax>
+      <ymax>498</ymax>
+    </bndbox>
+  </object>
+</annotation>
