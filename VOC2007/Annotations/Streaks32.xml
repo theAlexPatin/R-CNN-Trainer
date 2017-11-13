@@ -13,34 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>1025</xmin>
-      <ymin>338</ymin>
-      <xmax>1063</xmax>
-      <ymax>440</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>Streaks</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1183</xmin>
-      <ymin>238</ymin>
-      <xmax>1206</xmax>
-      <ymax>355</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>Streaks</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1359</xmin>
-      <ymin>389</ymin>
-      <xmax>1382</xmax>
-      <ymax>480</ymax>
+      <xmin>1415</xmin>
+      <ymin>71</ymin>
+      <xmax>1453</xmax>
+      <ymax>167</ymax>
     </bndbox>
   </object>
 </annotation>

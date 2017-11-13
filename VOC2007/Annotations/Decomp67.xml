@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>388</xmin>
-      <ymin>293</ymin>
-      <xmax>419</xmax>
-      <ymax>310</ymax>
+      <xmin>386</xmin>
+      <ymin>288</ymin>
+      <xmax>421</xmax>
+      <ymax>320</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>754</xmin>
-      <ymin>237</ymin>
-      <xmax>783</xmax>
-      <ymax>261</ymax>
+      <xmin>744</xmin>
+      <ymin>236</ymin>
+      <xmax>789</xmax>
+      <ymax>274</ymax>
     </bndbox>
   </object>
   <object>
@@ -37,10 +37,58 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>831</xmin>
-      <ymin>224</ymin>
+      <xmin>819</xmin>
+      <ymin>219</ymin>
       <xmax>856</xmax>
-      <ymax>246</ymax>
+      <ymax>254</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Decomposed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>817</xmin>
+      <ymin>375</ymin>
+      <xmax>860</xmax>
+      <ymax>398</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Decomposed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>934</xmin>
+      <ymin>332</ymin>
+      <xmax>949</xmax>
+      <ymax>350</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Decomposed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1498</xmin>
+      <ymin>52</ymin>
+      <xmax>1525</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Decomposed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1819</xmin>
+      <ymin>171</ymin>
+      <xmax>1844</xmax>
+      <ymax>203</ymax>
     </bndbox>
   </object>
 </annotation>
