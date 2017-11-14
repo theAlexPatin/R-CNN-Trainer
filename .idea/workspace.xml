@@ -2,65 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bde4daba-fbef-4bc6-a78f-360133772a6a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/R-CNN-Trainer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Decomp64.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches9.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Scratches/Scratches17.png" afterPath="$PROJECT_DIR$/Images/Scratches/Scratches17.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Images/Scratches/Scratches18.png" afterPath="$PROJECT_DIR$/Images/Scratches/Scratches18.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/JPEGImages/Scratches17.jpg" afterPath="$PROJECT_DIR$/VOC2007/JPEGImages/Scratches17.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/JPEGImages/Scratches18.jpg" afterPath="$PROJECT_DIR$/VOC2007/JPEGImages/Scratches18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Decomp67.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Decomp67.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches11.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches12.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches12.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches17.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches17.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches18.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches18.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches19.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches19.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks1.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks10.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks10.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks11.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks12.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks12.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks13.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks14.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks15.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks15.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks16.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks16.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks17.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks18.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks18.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks19.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks19.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks2.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks20.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks20.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks21.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks21.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks22.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks22.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks23.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks23.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks24.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks24.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks25.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks25.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks26.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks26.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks27.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks27.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks28.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks28.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks29.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks29.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks3.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks30.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks30.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks31.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks31.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks32.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks32.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks33.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks33.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks34.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks34.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks35.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks35.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks36.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks36.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks37.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks37.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks38.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks38.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks39.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks39.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks4.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks40.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks40.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks41.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks41.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks42.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks42.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks43.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks43.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks5.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks6.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks7.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks8.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks8.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Streaks9.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Streaks9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VOC2007/Annotations/Scratches8.xml" afterPath="$PROJECT_DIR$/VOC2007/Annotations/Scratches8.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,44 +24,102 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/R_CNN_Trainer$main.coverage" NAME="main Coverage Results" MODIFIED="1510615150098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/R_CNN_Trainer$main.coverage" NAME="main Coverage Results" MODIFIED="1510618687855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="147" column="23" lean-forward="false" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scratches1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Decomp1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml">
+      <file leaf-file-name="Streaks1.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks1.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scratches11.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches11.xml">
+      <file leaf-file-name="Streaks2.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streaks3.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks3.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streaks23.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks23.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streaks30.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks30.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streaks37.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks37.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streaks41.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks41.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streaks43.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks43.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Decomp64.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp64.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Decomp67.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp67.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -133,10 +145,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/VOC2007/Annotations/Scratches12.xml" />
+        <option value="$PROJECT_DIR$/VOC2007/Annotations/Decomp67.xml" />
+        <option value="$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml" />
+        <option value="$PROJECT_DIR$/VOC2007/Annotations/Scratches5.xml" />
+        <option value="$PROJECT_DIR$/VOC2007/Annotations/Scratches18.xml" />
         <option value="$PROJECT_DIR$/VOC2007/Annotations/Scratches10.xml" />
         <option value="$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml" />
-        <option value="$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml" />
-        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -167,6 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,8 +207,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +264,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -256,7 +271,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -282,20 +297,266 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp76.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2691">
-          <caret line="126" column="23" lean-forward="false" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml">
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp78.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp80.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag10.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag11.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag13.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag14.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag15.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag17.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag18.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag19.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag20.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag21.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag23.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag24.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag28.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/FlowLines2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag34.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/DieDrag33.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/FlowLines10.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/FlowLines19.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/FlowLines40.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches5.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches6.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches7.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches17.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches18.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches8.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches10.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches9.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -308,54 +569,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches12.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches19.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches20.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="184">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Particles1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1162">
+          <caret line="346" column="0" lean-forward="true" selection-start-line="346" selection-start-column="0" selection-end-line="346" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1863">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks9.xml">
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-681">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks15.xml">
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks3.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2484">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks39.xml">
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks23.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20790">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches20.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1035">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches11.xml">
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks30.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks37.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks41.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Streaks43.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp64.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -365,59 +701,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp67.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1242">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp2.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches18.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1035">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches10.xml" />
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Scratches9.xml" />
-    <entry file="file://$PROJECT_DIR$/VOC2007/Annotations/Decomp1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="147" column="23" lean-forward="false" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
