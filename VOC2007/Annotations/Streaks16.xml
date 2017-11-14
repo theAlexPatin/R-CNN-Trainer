@@ -13,10 +13,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>236</xmin>
-      <ymin>124</ymin>
-      <xmax>265</xmax>
-      <ymax>207</ymax>
+      <xmin>233</xmin>
+      <ymin>115</ymin>
+      <xmax>276</xmax>
+      <ymax>208</ymax>
     </bndbox>
   </object>
   <object>
@@ -25,10 +25,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>288</xmin>
-      <ymin>251</ymin>
-      <xmax>312</xmax>
-      <ymax>362</ymax>
+      <xmin>285</xmin>
+      <ymin>194</ymin>
+      <xmax>409</xmax>
+      <ymax>380</ymax>
     </bndbox>
   </object>
   <object>
@@ -37,10 +37,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>326</xmin>
-      <ymin>195</ymin>
-      <xmax>349</xmax>
-      <ymax>253</ymax>
+      <xmin>607</xmin>
+      <ymin>80</ymin>
+      <xmax>725</xmax>
+      <ymax>160</ymax>
     </bndbox>
   </object>
   <object>
@@ -49,46 +49,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>369</xmin>
-      <ymin>300</ymin>
-      <xmax>421</xmax>
-      <ymax>388</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>Streaks</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1124</xmin>
-      <ymin>234</ymin>
-      <xmax>1156</xmax>
+      <xmin>1106</xmin>
+      <ymin>147</ymin>
+      <xmax>1182</xmax>
       <ymax>310</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>Streaks</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>1710</xmin>
-      <ymin>252</ymin>
-      <xmax>1729</xmax>
-      <ymax>321</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>Streaks</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>658</xmin>
-      <ymin>91</ymin>
-      <xmax>697</xmax>
-      <ymax>165</ymax>
     </bndbox>
   </object>
 </annotation>
